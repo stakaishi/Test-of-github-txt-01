@@ -1,1 +1,16 @@
-test
+This is test of github. jun 28 2015.
+
+githubをテストしています。2015.01.28. 
+
+
+
+プロジェクト ネーム 「Test-of-github-txt-01」
+
+構成
+
+・まえがき.txt 
+・第一章 「駅前の本屋さん」.txt 
+・第二章 「ディレクトリはどう作るのだろう」.txt 
+・終章 「わからん」.txt 
+
+
