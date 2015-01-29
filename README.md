@@ -21,6 +21,10 @@ gitからのZIPファイルダウンロードはWindowsではファイル名の�
 <br><br><br>
 
 
+改行をテスト<cr lf>
+テスト<crlf>
+
+
 
 
 
