@@ -1,4 +1,4 @@
-# test of github txt -  README  -
+# test of github txt -  readme  -
 
 This is test of github.  jun 28 2015. 
 
