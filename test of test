@@ -1,8 +1,6 @@
-  <meta charset="utf-8">
-            
-   テスト
-   
-   test
-   
-   てすと
+   テスト\x0D\x0A
+   \x0D\x0A
+   test\x0D\x0A
+   \x0D\x0A
+   てすと\x0D\x0A
 
