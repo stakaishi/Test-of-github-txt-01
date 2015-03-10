@@ -2,7 +2,7 @@
 
 This is test of github.  jun 28 2015. 
 
-githubをテストしています。2015.01.28.   <br><br><br>
+githubをテストしています。2015.01.28.   
 
 Ver0.01をローンチ。リリースタグを参照。
 
