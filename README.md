@@ -1,6 +1,6 @@
 # Test of github txt 01  　-　readme　-  
 
-This is test of github.   28 jun　2015. 
+This is test of github.   28 jun 2015. 
 
 githubをテストしています。2015.01.28.   
 
