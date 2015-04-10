@@ -1,4 +1,4 @@
-This is test of github. jun 28 2015.
+This is test of github. 28 jun 2015.
 
 githubをテストしています。2015.01.28. 
 
@@ -22,9 +22,4 @@ gitからのZIPファイルダウンロードはWindowsではファイル名の�
 で改行されない。。orz　　だけどデスクトップのソフトからクローン?で開くとメモ帳でもきちんと見れる・・・
 
 
-改行をテスト<CR+LF>
-テスト<CRLF>
-テスト<CR+LF>
-テストCR+LF
-テストCRLF
-テスト
+
