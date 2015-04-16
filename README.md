@@ -4,7 +4,6 @@ This is test of github.   28 jun 2015.
 
 githubをテストしています。2015.01.28.   
 
-Ver0.01をローンチ。リリースタグを参照。
 
 
 
